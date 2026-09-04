@@ -1,0 +1,1 @@
+"""Company Second Brain backend."""
